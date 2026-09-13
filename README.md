@@ -132,7 +132,7 @@ I'm currently focused on opportunities in:
 
 💼 [LinkedIn](https://www.linkedin.com/in/cgarg3)
 
-🌐 Portfolio: **Coming Soon**
+🌐 [Portfolio](https://cgarg-portfolio.netlify.app)
 
 ---
 
